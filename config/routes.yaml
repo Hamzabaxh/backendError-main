@@ -1,0 +1,3 @@
+api_controller:
+  resource: App\Controller\ApiController
+  type: annotation
